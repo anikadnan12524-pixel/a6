@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://theclothinghub.com/sitemap.xml
+Sitemap: https://theclothinghub.onrender.com/sitemap.xml
